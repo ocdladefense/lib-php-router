@@ -3,11 +3,6 @@
     "autoload": {
         "classmap": [
             "src/"
-        ],
-        "files": [
-            "src/ManualRouter.php",
-            "src/TemplateRouter.php",
-            "src/ModuleRouter.php"
         ]
    } 
 }
