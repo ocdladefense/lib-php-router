@@ -1,18 +1,8 @@
 {
     "name": "ocdladefense/lib-php-router",
-    "config": {
-        "preferred-install": {
-            "ocdladefense/*": "source"
-        }
-    },
     "autoload": {
         "classmap": [
             "src/"
-        ],
-        "files": [
-            "src/ManualRouter.php",
-            "src/TemplateRouter.php",
-            "src/ModuleRouter.php"
         ]
    } 
 }
