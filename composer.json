@@ -1,5 +1,10 @@
 {
     "name": "ocdladefense/lib-php-router",
+    "config": {
+        "preferred-install": {
+            "ocdladefense/*": "source"
+        }
+    },
     "autoload": {
         "classmap": [
             "src/"
